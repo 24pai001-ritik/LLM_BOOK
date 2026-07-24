@@ -1,7 +1,7 @@
 # The Attention Book — code
 
 Runnable code for **_The Attention Book: Large Language Models from First Principles_**
-by Ritik (Ritik Publication).
+by Ritik Agarwal and Saba Saleji (Entropy Publication).
 
 The book's central promise is that **every worked number in it is real**, computed from a
 tiny transformer that was actually trained, and that you can check any of them yourself.
